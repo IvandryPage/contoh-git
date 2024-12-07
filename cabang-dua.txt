@@ -1,3 +1,4 @@
 Isi pengganti dari cabang-dua.txt
 Tadi isinya "File dari cabang-dua.txt"
 
+Nah ini nambahin commit lagi ke cabang 2.. setelah ini bakal digabungin sama cabang-1
